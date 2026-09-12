@@ -166,7 +166,6 @@ Morsecode abspielen=Morsecode abspielen
 # =============================================================================
 
 # Zentrale & Steuerstand
-Steuerstand=Steuerstand
 Ruder=Ruder
 Ruder angle -=Ruderlage -
 Open voice tube.=Sprechröhre öffnen.
@@ -177,34 +176,30 @@ Leiter=Leiter
 Night light switch=Nachtbeleuchtungsschalter
 
 # Tiefensteuerstand (Dive Control)
-Tiefensteuerstand=Tiefensteuerstand
 Rotate forward diveplane clockwise=Vorderes Tiefenruder aufholen
 Rotate forward diveplane counterclockwise=Vorderes Tiefenruder niederlegen
 Vorderes Tiefenruder nach unten=Vorderes Tiefenruder legen (Abfangen)
 Vorderes Tiefenruder nach oben=Vorderes Tiefenruder aufholen (Steigen)
 Vorderes Tiefenruder Mitte=Vorderes Tiefenruder mittschiffs legen
-Rotate aft diveplane clockwise=Hinteres Tiefenruder im Uhrzeigersinn drehen (Niederlegen)
-Rotate aft diveplane counterclockwise=Hinteres Tiefenruder gegen den Uhrzeigersinn drehen (Aufholen)
-Achteres Tiefenruder nach unten=Hinteres Tiefenruder legen (Abfangen)
+Rotate aft diveplane clockwise=Achteres Tiefenruder aufholen
+Rotate aft diveplane counterclockwise=Achteres Tiefenruder niederlegen
+Achteres Tiefenruder nach unten=Hinteres Tiefenruder niederlegen (Abfangen)
 Achteres Tiefenruder nach oben=Hinteres Tiefenruder aufholen (Steigen)
 
 # =============================================================================
 # FLUT- UND TRIMMANLAGE (ZENTRALE)
 # =============================================================================
-Tauchzellen-Steuerung=Flutanlage
 Ballast air valve=Anblasventil
 Ballast air control -=Anblasesteuerung -
 Ballast air control - 76561198867462768=Anblasesteuerung – 76561198867462768
-Tauchzelle vorn Entlüftung=Tauchzelle vorn Entlüftung
-Tauchzelle achtern Entlüftung=Tauchzelle achtern Entlüftung
 
 # Schnelltauchanlage
 Negative airflow control=Schnelltauch-Anblasventil
 Negative tank air flow -=Schnelltauch-Anblasdruck -
-Negative tank vent=Schnelltauchzellen-Entlüftung
+Negative tank vent=Schnelltauchzelle
 
 # Trimmanlage
-Trim tank air valve=Trimmzellen-Anblasventil
+Trim tank air valve=Trimmzellen
 Trim tank air flow -=Trimmzellen-Anblasdruck -
 Trim tank vent=Trimmzellen-Entlüftung
 
@@ -219,8 +214,7 @@ Dive alarm - 76561198867462768=Tauchalarm – 76561198867462768
 
 
 # E-Maschinenraum
-Elektromotor-Steuerung=E-Maschinen-Steuerung
-E-motor controls=Elektromotor-Steuerung
+E-motor controls=E-Maschinen-Steuerung
 Starboard E motor clutch -=Steuerbord-E-Maschinenkupplung -
 Starboard E motor clutch - 76561198867462768=Steuerbord-E-Maschinenkupplung – 76561198867462768
 Port E motor clutch -=Backbord-E-Maschinenkupplung -
@@ -369,8 +363,6 @@ Echolot=Echolot
 # =============================================================================
 # SEERÄUME, NAVIGATION & OPTIKEN
 # =============================================================================
-Kartentisch=Kartentisch
-Periskop=Sehrohr (Periskop)
 Periscope=Sehrohr
 Raise periscope=Sehrohr ausfahren
 Lower periscope=Sehrohr einfahren
@@ -384,7 +376,6 @@ Table for calculating attack distances using the horizontal scale=Tabelle zur En
 # =============================================================================
 # TORPEDOTECHNIK & RECHENAPPARAT (TDC)
 # =============================================================================
-Torpedorechenapparat=Torpedorechenapparat
 Angle on bow=Lagewinkel
 Target speed=Gegnerische Geschwindigkeit
 Target range=Gegnerische Entfernung
@@ -421,7 +412,6 @@ T5 ZAUNKÖNIG  (4 VERFÜGBAR)=T5 Zaunkönig (4 verfügbar)
 # =============================================================================
 # SONSTIGE STATIONEN & SCHOTTE
 # =============================================================================
-Schallplattenspieler=Grammophon
 BOLDSCHLEUSE | BOLD AUSWERFEN (5/5)=Täuschkörperwerfer (Bold) |\nAuswerfen (5/5)
 BOLDSCHLEUSE | BOLD AUSWERFEN (4/5)=Täuschkörperwerfer (Bold) |\nAuswerfen (4/5)
 BOLDSCHLEUSE | BOLD AUSWERFEN (3/5)=Täuschkörperwerfer (Bold) |\nAuswerfen (3/5)
