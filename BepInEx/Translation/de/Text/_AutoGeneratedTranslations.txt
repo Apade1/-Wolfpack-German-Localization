@@ -10,6 +10,7 @@ Close=Schließen
 Placeholder=Platzhalter
 Placeholder description.=Platzhalterbeschreibung.
 Create=Erstellen
+Players=Spieler
 
 # Grafik- und Videoeinstellungen
 Screen resolution=Bildschirmauflösung
@@ -83,7 +84,6 @@ Eigenbeschuss=Eigenbeschuss
 Bots=Bots
 Geleitzug-KI: EIN=Geleitzug-KI: EIN
 Force Real Morse=Echtes Morsen erzwingen
-QuickEncounter=Schnelle Begegnung
 Schnelle Begegnung=Schnelle Begegnung
 Tonnage Goal=Tonnageziel
 Time Limit=Zeitlimit
@@ -93,6 +93,7 @@ Bei Fertigstellung anzeigen=Bei Fertigstellung anzeigen
 Immer versteckt=Immer versteckt
 r:^• Destroy enemy merchant ships: (\d+)/(\d+) grt\.$="• Feindliche Handelsschiffe zerstört: $1/$2 BRT."
 r:^• Destroy enemy merchant ships: (\d+)/(\d+) grt\.\s*$="• Feindliche Handelsschiffe zerstört: $1/$2 BRT."
+r:^• Sink at least (\d+) tonnes of enemy merchant ships\.$="• Mindestens $1 Tonnen feindlichen Handelsschiffsraum versenken."
 Load Mission=Einsatz laden
 Select Mission=Einsatz wählen
 Mission Title=Einsatzname
@@ -113,6 +114,14 @@ Tastenbelegung zurücksetzen=Tastenbelegung zurücksetzen
 Revert=Zurücksetzen
 Reset=Zurücksetzen
 Clear All=Alles löschen
+
+# =============================================================================
+# GEOGRAFISCHE ANGABEN & KARTENDATEN (HISTORISCH KORREKT)
+# =============================================================================
+Longitude=Länge (L)
+Latitude=Breite (B)
+Average Depth=Mittlere Tiefe
+meters=Meter
 
 # Sonstiges UI
 Handbuch=Handbuch
