@@ -1,0 +1,427 @@
+﻿# =============================================================================
+# REINE SYSTEM- UND MENÜTEXTE (BEREINIGT)
+# =============================================================================
+Confirm=Bestätigen
+Apply=Anwenden
+Cancel=Abbrechen
+Refresh=Aktualisieren
+Manage=Verwalten
+Close=Schließen
+Placeholder=Platzhalter
+Placeholder description.=Platzhalterbeschreibung.
+Create=Erstellen
+
+# Grafik- und Videoeinstellungen
+Screen resolution=Bildschirmauflösung
+Texture resolution=Texturauflösung
+Shadow resolution=Schattenauflösung
+Water resolution=Wasserauflösung
+Anisotropic filtering=Anisotrope Filterung
+Shadows=Schatten
+Field of view=Sichtfeld
+Frame rate cap=Framerate-Obergrenze
+Dynamic foam quality=Dynamische Schaumqualität
+Motion blur=Bewegungsunschärfe
+Ambient occlusion=Bildschirmraum-Umgebungsokklusion (SSAO)
+Screenspace reflection=Bildschirmraum-Reflexion (SSR)
+Vsync=Vertikale Synchronisation (VSync)
+Dither=Dithering
+Bloom=Blenden
+Brightness correction=Helligkeitskorrektur
+Antialiasing=Kantenglättung
+
+# Lobby- und Multiplayer-Menüs
+Creating lobby...=Lobby wird erstellt...
+Creating lobby...=Lobby erstellen...
+Lobby suchen=Lobby suchen
+Lobby erstellen=Lobby erstellen
+Lobby-Entfernung=Lobby-Entfernung
+Sichtbarkeit=Sichtbarkeit
+Servername=Servername
+Passwort=Passwort
+Filters=Filter
+Playstyle=Spielstil
+Casual=Lässig
+Einfach=Einfach
+Mittel=Mittel
+Hoch=Hoch
+Max=Max
+Maximal=Maximal
+Low=Niedrig
+Off=Aus
+Nur Freunde=Nur Freunde
+Öffentlich=Öffentlich
+Players in this session=Spieler in dieser Sitzung
+Host=Gastgeber
+Apade (Host)=Apade (Gastgeber)
+A Long Player Name=Ein langer Spielername
+Freunde einladen=Freunde einladen
+Freunde können zur Lobby eingeladen werden=Freunde können zur Lobby eingeladen werden
+Besatzung beitreten=Besatzung beitreten
+Besatzung verlassen=Besatzung verlassen
+Beitreten=Beitreten
+Verlassen=Verlassen
+Verbindung trennen=Verbindung trennen
+Spiel verlassen=Spiel verlassen
+Click to enter a title for your lobby...=Gib einen Namen für deine Lobby ein...
+Click to enter a description for your lobby...=Gib eine Beschreibung für deine Lobby ein...
+Click to enter a password for your lobby...=Gib ein Passwort für deine Lobby ein...
+That server requires a password, please submit the correct password below:=Für diesen Server ist ein Passwort erforderlich. Bitte gib das Passwort unten ein:
+
+# Missions- und Editor-Texte
+Mission=Einsatz
+Einsatzbesprechung=Einsatzbesprechung
+Startbedingungen=Startbedingungen
+Schwierigkeitseinstellungen=Schwierigkeitseinstellungen
+Spielmodus=Spielmodus
+Scenario=Szenario
+Realism=Realismus
+Realische Sprachabschwächung=Realistische Sprachabschwächung
+Force Manual Navigation=Manuelle Navigation erzwingen
+Automatische Navigation=Automatische Navigation
+Eigenbeschuss=Eigenbeschuss
+Bots=Bots
+Geleitzug-KI: EIN=Geleitzug-KI: EIN
+Force Real Morse=Echtes Morsen erzwingen
+QuickEncounter=Schnelle Begegnung
+Schnelle Begegnung=Schnelle Begegnung
+Tonnage Goal=Tonnageziel
+Time Limit=Zeitlimit
+Objective Visibility=Sichtbarkeit der Ziele
+Immer anzeigen=Immer anzeigen
+Bei Fertigstellung anzeigen=Bei Fertigstellung anzeigen
+Immer versteckt=Immer versteckt
+r:^• Destroy enemy merchant ships: (\d+)/(\d+) grt\.$="• Feindliche Handelsschiffe zerstört: $1/$2 BRT."
+r:^• Destroy enemy merchant ships: (\d+)/(\d+) grt\.\s*$="• Feindliche Handelsschiffe zerstört: $1/$2 BRT."
+Load Mission=Einsatz laden
+Select Mission=Einsatz wählen
+Mission Title=Einsatzname
+Mission Description=Einsatzbeschreibung
+Victory Message=Siegesbotschaft
+Loss Message=Verlustmeldung
+Abort Message=Abbruchnachricht
+Click to enter a title for your mission...=Gib einen Namen für deinen Einsatz ein...
+Click here to enter a workshop description...=Gib eine Workshop-Beschreibung ein...
+Click here to add a victory message to your mission...=Füge deinem Einsatz eine Siegesbotschaft hinzu...
+Click here to add an abort message to your mission...=Füge deinem Einsatz eine Abbruchnachricht hinzu...
+Click here to add a defeat message to your mission...=Füge deinem Einsatz eine Niederlagennachricht hinzu...
+Export To Clipboard=In die Zwischenablage exportieren
+Import From Clipboard=Aus der Zwischenablage importieren
+Mission aus der Zwischenablage importieren=Mission aus der Zwischenablage importieren
+Publish to the Steam Workshop=Im Steam Workshop veröffentlichen
+Tastenbelegung zurücksetzen=Tastenbelegung zurücksetzen
+Revert=Zurücksetzen
+Reset=Zurücksetzen
+Clear All=Alles löschen
+
+# Sonstiges UI
+Handbuch=Handbuch
+Workshop=Workshop
+Credits=Credits
+Neuigkeiten=Neuigkeiten
+Version=Version
+MODS=MODS
+Log Book=Logbuch
+Activity Log=Aktivitätsprotokoll
+Bannlisten-Optionen=Bannlisten-Optionen
+Banned Players=Gebannte Spieler
+Community=Community
+Community Profile=Community-Profil
+Steam Profile=Steam-Profil
+FPS-Anzeige anzeigen=FPS-Anzeige anzeigen
+QuickInfos anzeigen=QuickInfos anzeigen
+Nickname anzeigen=Spitzname anzeigen
+Maus invertieren=Maus invertieren
+Empfindlichkeit der Kameradrehung=Empfindlichkeit der Kameradrehung
+Empfindlichkeit der Cursor-Interaktion=Empfindlichkeit der Cursor-Interaktion
+Cursor-Skalierung=Cursor-Skalierung
+Intensität des Scrollrads=Intensität des Scrollrads
+Menü Hintergrund Deckkraft=Menü-Hintergrund Deckkraft
+Karte Schriftart (Schriftgröße)=Karte Schriftart (Schriftgröße)
+Karte Linienmaßstab=Karte Linienmaßstab
+Ordner >Sprache< öffnen=Ordner >Sprache< öffnen
+Sprachen neu laden=Sprachen neu laden
+Sprachen neu laden=Sprachen neu geladen
+Werkseinstellung laden=Werkseinstellung geladen
+Erhöht oder verringert die Gesamtlautstärke des Spiels unter Beibehaltung des Verhältnisses zwischen den verschiedenen Lautstärken.=Erhöht oder verringert die Gesamtlautstärke des Spiels unter Beibehaltung des Verhältnisses zwischen den verschiedenen Lautstärken.
+Regelt die Lautstärke des eingehenden Voice-Chats.=Regelt die Lautstärke des eingehenden Voice-Chats.
+Zeigt den Eingangslautstärkepegel Ihres Mikrofons an.=Zeigt den Eingangslautstärkepegel Ihres Mikrofons an.
+Push-To-Talk schaltet Ihr Mikrofon ein und aus, wenn die entsprechende Taste gedrückt wird.=Push-To-Talk schaltet Ihr Mikrofon ein und aus, wenn die entsprechende Taste gedrückt wird.
+Push-To-Talk-Hinweis anzeigen=Push-To-Talk-Hinweis anzeigen
+Aktivieren, um einen Hinweis darauf anzuzeigen, ob Ihr Mikrofon aktiviert ist oder nicht.=Aktivieren, um einen Hinweis darauf anzuzeigen, ob Ihr Mikrofon aktiviert ist oder nicht.
+Deaktivieren, um den Morsetoneffekt bei Verwendung der Morsetaste abzuschalten.=Deaktivieren, um den Morsetoneffekt bei Verwendung der Morsetaste abzuschalten.
+Morsecode abspielen=Morsecode abspielen
+
+# =============================================================================
+# INTERIEUR & U-BOOT-STATIONEN (HISTORISCH KORREKT)
+# =============================================================================
+
+# Zentrale & Steuerstand
+Steuerstand=Steuerstand
+Ruder=Ruder
+Ruder angle -=Ruderlage -
+Open voice tube.=Sprechröhre öffnen.
+Close voice tube.=Sprechröhre schließen.
+Use voice tube whistle=Sprechrohrpfeife betätigen
+Ladder=Kommandantenleiter
+Leiter=Leiter
+Night light switch=Nachtbeleuchtungsschalter
+
+# Tiefensteuerstand (Dive Control)
+Tiefensteuerstand=Tiefensteuerstand
+Rotate forward diveplane clockwise=Vorderes Tiefenruder aufholen
+Rotate forward diveplane counterclockwise=Vorderes Tiefenruder niederlegen
+Vorderes Tiefenruder nach unten=Vorderes Tiefenruder legen (Abfangen)
+Vorderes Tiefenruder nach oben=Vorderes Tiefenruder aufholen (Steigen)
+Vorderes Tiefenruder Mitte=Vorderes Tiefenruder mittschiffs legen
+Rotate aft diveplane clockwise=Hinteres Tiefenruder im Uhrzeigersinn drehen (Niederlegen)
+Rotate aft diveplane counterclockwise=Hinteres Tiefenruder gegen den Uhrzeigersinn drehen (Aufholen)
+Achteres Tiefenruder nach unten=Hinteres Tiefenruder legen (Abfangen)
+Achteres Tiefenruder nach oben=Hinteres Tiefenruder aufholen (Steigen)
+
+# =============================================================================
+# FLUT- UND TRIMMANLAGE (ZENTRALE)
+# =============================================================================
+Tauchzellen-Steuerung=Flutanlage
+Ballast air valve=Anblasventil
+Ballast air control -=Anblasesteuerung -
+Ballast air control - 76561198867462768=Anblasesteuerung – 76561198867462768
+Tauchzelle vorn Entlüftung=Tauchzelle vorn Entlüftung
+Tauchzelle achtern Entlüftung=Tauchzelle achtern Entlüftung
+
+# Schnelltauchanlage
+Negative airflow control=Schnelltauch-Anblasventil
+Negative tank air flow -=Schnelltauch-Anblasdruck -
+Negative tank vent=Schnelltauchzellen-Entlüftung
+
+# Trimmanlage
+Trim tank air valve=Trimmzellen-Anblasventil
+Trim tank air flow -=Trimmzellen-Anblasdruck -
+Trim tank vent=Trimmzellen-Entlüftung
+
+# Pumpen, Kompressoren & Alarm
+Turn on bilge pump=Lenzpumpe einschalten
+Turn off bilge pump=Lenzpumpe ausschalten
+Turn on compressor=Kompressor einschalten
+Turn off compressor=Kompressor ausschalten
+Dive alarm=Tauchalarm
+Dive alarm -=Tauchalarm -
+Dive alarm - 76561198867462768=Tauchalarm – 76561198867462768
+
+
+# E-Maschinenraum
+Elektromotor-Steuerung=E-Maschinen-Steuerung
+E-motor controls=Elektromotor-Steuerung
+Starboard E motor clutch -=Steuerbord-E-Maschinenkupplung -
+Starboard E motor clutch - 76561198867462768=Steuerbord-E-Maschinenkupplung – 76561198867462768
+Port E motor clutch -=Backbord-E-Maschinenkupplung -
+Port E motor clutch - 76561198867462768=Backbord-E-Maschinenkupplung – 76561198867462768
+E_Motor_Direction=Fahrschalter
+Forward/Reverse switch=Fahrschalter (Voraus/Zurück)
+Fahrschalter=Fahrschalter
+Motor Series/parallel switch=Gruppenschalter (Reihe/Parallel)
+Battery Series/parallel switch=Batterieschalter (Reihe/Parallel)
+Speed control=Drehzahlregler (Widerstand)
+Disable starting resistor=Anlaufwiderstand ausschalten
+Enable starting resistor=Anlaufwiderstand einschalten
+Starboard fuse -=Steuerbordsicherung -
+Port fuse -=Backbordsicherung -
+Port fuse - 76561198867462768=Backbordsicherung – 76561198867462768
+Spannungsregler Backbord=Spannungsregler Backbord
+Spannungsregler Steuerbord=Spannungsregler Steuerbord
+Hilfsspannungsregler=Hilfsspannungsregler
+Voltage regulator=Spannungsregler
+Auxillary voltage regulator=Hilfsspannungsregler
+Rectifier=Gleichrichter
+
+# =============================================================================
+# MASCHINENTELEGRAF - BEFEHLE & ANZEIGEN (HISTORISCH KORREKT)
+# =============================================================================
+# Fahrtstufen Voraus (Ahead)
+Dead slow speed ahead=Kleine Fahrt voraus
+Slow speed ahead=Langsame Fahrt voraus
+Half speed ahead=Halbe Fahrt voraus
+Great speed ahead=Große Fahrt voraus
+Full speed ahead=Äußerste Kraft voraus
+
+# Fahrtstufen Zurück (Astern)
+Dead slow speed Astern=Kleine Fahrt zurück
+Slow speed astern=Langsame Fahrt zurück
+Half speed astern=Halbe Fahrt zurück
+Full speed astern=Äußerste Kraft zurück
+
+# Weitere Befehle
+Stop=Stopp
+Charge batteries=Laden
+Increase speed on both engines by 10 rpm=Drehzahl auf beiden Maschinen um 10 U/min erhöhen
+Decrease speed on both engines by 10 rpm=Drehzahl auf beiden Maschinen um 10 U/min verringern
+Attention=Achtung
+Dive=Tauchen!
+Start diesel engine=Dieselmaschine anlassen
+Start electric engine=E-Maschine anlassen
+
+# =============================================================================
+# DIESELMASCHINENRAUM (ENTWIRRT)
+# =============================================================================
+DieselmaschinenraumDieselmotor=Dieselmaschinenraum
+Start diesel engine=Dieselmaschine anlassen
+Decouple diesel engine=Dieselmaschine auskuppeln
+Starboard Diesel clutch -=Steuerbord-Dieselkupplung -
+Starboard Diesel clutch - 76561198867462768=Steuerbord-Dieselkupplung – 76561198867462768
+Port Diesel clutch -=Backbord-Dieselkupplung -
+Port Diesel clutch - 76561198867462768=Backbord-Dieselkupplung – 76561198867462768
+Throttle=Füllungshebel
+Starter lever=Anlasshebel
+Starter air=Anlassluft
+Turn on supercharger=Gebläse einschalten
+Turn off supercharger=Gebläse ausschalten
+Air intake valve=Hauptluftmastventil
+Air intake valve - 76561198867462768=Hauptluftmastventil – 76561198867462768
+Air exhaust valve=Abgashauptklappe
+Air exhaust valve - 76561198867462768=Abgashauptklappe – 76561198867462768
+Engine intake valve=Verbrennungsluftklappe
+Engine intake valve - 76561198867462768=Verbrennungsluftklappe – 76561198867462768
+Starboard engine exhaust valve - 76561198867462768=Steuerbord-Abgasklappe – 76561198867462768
+Port engine exhaust valve - 76561198867462768=Backbord-Abgasklappe – 76561198867462768
+Open air intake valve=Hauptluftmastventil öffnen
+Close air intake valve=Hauptluftmastventil schließen
+Open air exhaust valve=Abgashauptklappe öffnen
+Close air exhaust valve=Abgashauptklappe schließen
+Open engine air intake valve=Verbrennungsluftklappe öffnen
+Close engine air intake valve=Verbrennungsluftklappe schließen
+Open starboard engine exhaust valve=Steuerbord-Abgasklappe öffnen
+Close starboard engine exhaust valve=Steuerbord-Abgasklappe schließen
+Open port engine exhaust valve=Backbord-Abgasklappe öffnen
+Close port engine exhaust valve=Backbord-Abgasklappe schließen
+
+# =============================================================================
+# VENTILE & TREIBÖL (MASCHINENRAUM)
+# =============================================================================
+Port Diesel flow valve 1=Backbord-Kraftstoffventil 1
+Port Diesel flow valve 2=Backbord-Kraftstoffventil 2
+Port Diesel flow valve 3=Backbord-Kraftstoffventil 3
+Port Diesel flow valve 4=Backbord-Kraftstoffventil 4
+Port Diesel flow valve 5=Backbord-Kraftstoffventil 5
+Port Diesel flow valve 6=Backbord-Kraftstoffventil 6
+Port Oil flow valve 1=Backbord-Schmierölventil 1
+Port Oil flow valve 2=Backbord-Schmierölventil 2
+Port Oil flow valve 3=Backbord-Schmierölventil 3
+Port Oil flow valve 4=Backbord-Schmierölventil 4
+Port Oil flow valve 5=Backbord-Schmierölventil 5
+Port Oil flow valve 6=Backbord-Schmierölventil 6
+Port Check valve 1=Backbord-Rückschlagventil 1
+Port Check valve 2=Backbord-Rückschlagventil 2
+Port Check valve 3=Backbord-Rückschlagventil 3
+Port Check valve 4=Backbord-Rückschlagventil 4
+Port Check valve 5=Backbord-Rückschlagventil 5
+Port Check valve 6=Backbord-Rückschlagventil 6
+Starboard Diesel flow valve 1=Steuerbord-Kraftstoffventil 1
+Starboard Diesel flow valve 2=Steuerbord-Kraftstoffventil 2
+Starboard Diesel flow valve 3=Steuerbord-Kraftstoffventil 3
+Starboard Diesel flow valve 4=Steuerbord-Kraftstoffventil 4
+Starboard Diesel flow valve 5=Steuerbord-Kraftstoffventil 5
+Starboard Diesel flow valve 6=Steuerbord-Kraftstoffventil 6
+Starboard Oil flow valve 1=Steuerbord-Schmierölventil 1
+Starboard Oil flow valve 2=Steuerbord-Schmierölventil 2
+Starboard Oil flow valve 3=Steuerbord-Schmierölventil 3
+Starboard Oil flow valve 4=Steuerbord-Schmierölventil 4
+Starboard Oil flow valve 5=Steuerbord-Schmierölventil 5
+Starboard Oil flow valve 6=Steuerbord-Schmierölventil 6
+Starboard Check valve 1=Steuerbord-Rückschlagventil 1
+Starboard Check valve 2=Steuerbord-Rückschlagventil 2
+Starboard Check valve 3=Steuerbord-Rückschlagventil 3
+Starboard Check valve 4=Steuerbord-Rückschlagventil 4
+Starboard Check valve 5=Steuerbord-Rückschlagventil 5
+Starboard Check valve 6=Steuerbord-Rückschlagventil 6
+
+
+# =============================================================================
+# FUNK- & HORCHRAUM
+# =============================================================================
+Funkgerät=Funkstation
+Funkpeiler=Funkpeilstation
+Enigma-Maschine=Schlüsselmaschine Enigma
+Message to...=Funkspruch an...
+Message from...=Funkspruch von...
+Encode=Verschlüsseln
+Decode=Entziffern
+Encrypt new message=Neuen Funkspruch verschlüsseln
+Decrypt new message=Neuen Funkspruch entziffern
+Transmitting=Sende...
+raise direction finder antenna=Peilrahmen ausfahren
+lower direction finder antenna=Peilrahmen einfahren
+Rotate direction finder antenna=Peilrahmen drehen
+Hydrophone direction=Horchrichtung
+Hydrophone gain=Verstärkung
+Directionality=Richtcharakteristik
+High pass filter=Hochpassfilter
+Echolot=Echolot
+
+# =============================================================================
+# SEERÄUME, NAVIGATION & OPTIKEN
+# =============================================================================
+Kartentisch=Kartentisch
+Periskop=Sehrohr (Periskop)
+Periscope=Sehrohr
+Raise periscope=Sehrohr ausfahren
+Lower periscope=Sehrohr einfahren
+UZO (Überwasserzieloptik)=UZO (Überwasserzieloptik)
+Attack Disc=Angriffsscheibe
+Horizontal\nDistance table=Horizontale Entfernungstabelle
+Vertical\nDistance Table=Vertikale Entfernungstabelle
+Table for calculating target distance using the vertical scale=Tabelle zur Entfernungsberechnung über die vertikale Skala
+Table for calculating attack distances using the horizontal scale=Tabelle zur Entfernungsberechnung über die horizontale Skala
+
+# =============================================================================
+# TORPEDOTECHNIK & RECHENAPPARAT (TDC)
+# =============================================================================
+Torpedorechenapparat=Torpedorechenapparat
+Angle on bow=Lagewinkel
+Target speed=Gegnerische Geschwindigkeit
+Target range=Gegnerische Entfernung
+Target heading=Gegnerischer Kurs
+Target length=Schiffslänge
+Torpedo running depth=Torpedolauftiefe
+Torpedo reload=Torpedo nachladen
+Torpedo. -=Torpedo -
+Launch=Torpedoschuss (Los!)
+Torpedo abschießen=Torpedo abfeuern
+Launch=Abfeuern
+Open lid=Schutzkappe öffnen
+Close lid=Schutzkappe schließen
+Forward Torpedo Tubes=Bugtorpedorohre
+Aft Torpedo Tubes=Hecktorpedorohre
+tube 1=Rohr I
+tube 2=Rohr II
+tube 3=Rohr III
+tube 4=Rohr IV
+tube 5=Rohr V
+Loading tube 1=Rohr I wird geladen
+Loading tube 2=Rohr II wird geladen
+Loading tube 3=Rohr III wird geladen
+Loading tube 4=Rohr IV wird geladen
+Loading tube 5=Rohr V wird geladen
+g7e, type II=G7e (Ato-Torpedo Typ II)
+Type I Steam Torpedo=G7a (Dampftorpedo Typ I)
+TV Electric Torpedo=G7e (Zaunkönig Typ V)
+Zaunkoenig=Zaunkönig
+T5 ZAUNKÖNIG  (2 VERFÜGBAR)=T5 Zaunkönig (2 verfügbar)
+T5 ZAUNKÖNIG  (4 VERFÜGBAR)=T5 Zaunkönig (4 verfügbar)
+★ VORGEWÄRMT=★ VORGEWÄRMT
+
+# =============================================================================
+# SONSTIGE STATIONEN & SCHOTTE
+# =============================================================================
+Schallplattenspieler=Grammophon
+BOLDSCHLEUSE | BOLD AUSWERFEN (5/5)=Täuschkörperwerfer (Bold) |\nAuswerfen (5/5)
+BOLDSCHLEUSE | BOLD AUSWERFEN (4/5)=Täuschkörperwerfer (Bold) |\nAuswerfen (4/5)
+BOLDSCHLEUSE | BOLD AUSWERFEN (3/5)=Täuschkörperwerfer (Bold) |\nAuswerfen (3/5)
+BOLDSCHLEUSE | BOLD AUSWERFEN (2/5)=Täuschkörperwerfer (Bold) |\nAuswerfen (2/5)
+BOLDSCHLEUSE | BOLD AUSWERFEN (1/5)=Täuschkörperwerfer (Bold) |\nAuswerfen (1/5)
+BOLDSCHLEUSE | BOLD AUSWERFEN (0/5)=Täuschkörperwerfer (Bold) |\nAuswerfen (0/5)
+Deckgeschütz.=Deckgeschütz (8,8-cm-SK)
+Flugabwehrkanone=Flugabwehrkanone (Flak)
+Open door=Schott öffnen
+Close door=Schott schließen
+Lock door=Schott verriegeln
+Unlock door=Schott entriegeln
