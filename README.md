@@ -1,9 +1,9 @@
 # Historisch korrekte deutsche Übersetzung für Wolfpack (1939)
 
-Diese Modifikation bringt Wolfpack auf ein historisch absolut authentisches Niveau. Es werden sowohl die Menüs als auch sämtliche Hebel, Ventile, Anzeigen und Maschinenbefehle (EOT) in den echten Jargon der Kriegsmarine übersetzt (z. B. "Anblasventil", "Lagewinkel", "Fahrschalter").
+Diese Modifikation bringt Wolfpack auf ein historisch absolut authentisches Niveau. Es werden sowohl die Menüs als auch sämtliche Tooltips für Hebel, Ventile, Anzeigen und Maschinenbefehle (EOT) in den echten Jargon der Kriegsmarine übersetzt (z. B. "Anblasventil", "Lagewinkel", "Fahrschalter").
 
 ## Wichtige Voraussetzung
-Damit die Hebelbeschriftungen im U-Boot übersetzt werden können, **muss BepInEx 6 (IL2CPP) vorab auf deinem PC installiert sein!** 
+Damit die Tooltips im U-Boot übersetzt werden können, **muss BepInEx 6 (IL2CPP) vorab auf deinem PC installiert sein!** 
 
 ---
 
