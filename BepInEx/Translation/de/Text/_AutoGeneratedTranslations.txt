@@ -33,13 +33,13 @@ Antialiasing=Kantenglättung
 
 # Lobby- und Multiplayer-Menüs
 Creating lobby...=Lobby wird erstellt...
-Creating lobby...=Lobby erstellen...
 Filters=Filter
 Playstyle=Spielstil
 Casual=Lässig
-Maximal=Maximal
 Low=Niedrig
+High=Hoch
 Off=Aus
+On=An
 Players in this session=Spieler in dieser Sitzung
 Host=Gastgeber
 r:^(.*) \(Host\)$="$1 (Gastgeber)"
@@ -101,11 +101,9 @@ Steam Profile=Steam-Profil
 
 # Zentrale & Steuerstand
 Rudder angle -=Ruderlage -
-Open voice tube.=Sprechröhre öffnen.
-Close voice tube.=Sprechröhre schließen.
+Open voice tube.=Sprechrohr öffnen
+Close voice tube.=Sprechrohr schließen
 Use voice tube whistle=Sprechrohrpfeife betätigen
-Ladder=Kommandantenleiter
-Leiter=Leiter
 Night light switch=Nachtbeleuchtungsschalter
 
 # Tiefensteuerstand (Dive Control)
@@ -201,6 +199,11 @@ Start electric engine=E-Maschine anlassen
 # =============================================================================
 Start diesel engine=Dieselmaschine anlassen
 Decouple diesel engine=Dieselmaschine auskuppeln
+Couple diesel engine=Dieselmaschine einkuppeln
+Decouple starboard screw=Steuerbord Schraube auskuppeln
+Couple starboard screw=Steuerbord Schraube einkuppeln
+Decouple port screw=Backbord Schraube auskuppeln
+Couple port screw=Backbord Schraube einkuppeln
 Starboard Diesel clutch -=Steuerbord-Dieselkupplung -
 Starboard Diesel clutch - 76561198867462768=Steuerbord-Dieselkupplung – 76561198867462768
 Port Diesel clutch -=Backbord-Dieselkupplung -
