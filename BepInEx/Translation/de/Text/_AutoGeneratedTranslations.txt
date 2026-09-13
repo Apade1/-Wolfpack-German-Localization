@@ -34,36 +34,16 @@ Antialiasing=Kantenglättung
 # Lobby- und Multiplayer-Menüs
 Creating lobby...=Lobby wird erstellt...
 Creating lobby...=Lobby erstellen...
-Lobby suchen=Lobby suchen
-Lobby erstellen=Lobby erstellen
-Lobby-Entfernung=Lobby-Entfernung
-Sichtbarkeit=Sichtbarkeit
-Servername=Servername
-Passwort=Passwort
 Filters=Filter
 Playstyle=Spielstil
 Casual=Lässig
-Einfach=Einfach
-Mittel=Mittel
-Hoch=Hoch
-Max=Max
 Maximal=Maximal
 Low=Niedrig
 Off=Aus
-Nur Freunde=Nur Freunde
-Öffentlich=Öffentlich
 Players in this session=Spieler in dieser Sitzung
 Host=Gastgeber
-Apade (Host)=Apade (Gastgeber)
+r:^(.*) \(Host\)$="$1 (Gastgeber)"
 A Long Player Name=Ein langer Spielername
-Freunde einladen=Freunde einladen
-Freunde können zur Lobby eingeladen werden=Freunde können zur Lobby eingeladen werden
-Besatzung beitreten=Besatzung beitreten
-Besatzung verlassen=Besatzung verlassen
-Beitreten=Beitreten
-Verlassen=Verlassen
-Verbindung trennen=Verbindung trennen
-Spiel verlassen=Spiel verlassen
 Click to enter a title for your lobby...=Gib einen Namen für deine Lobby ein...
 Click to enter a description for your lobby...=Gib eine Beschreibung für deine Lobby ein...
 Click to enter a password for your lobby...=Gib ein Passwort für deine Lobby ein...
@@ -71,26 +51,13 @@ That server requires a password, please submit the correct password below:=Für 
 
 # Missions- und Editor-Texte
 Mission=Einsatz
-Einsatzbesprechung=Einsatzbesprechung
-Startbedingungen=Startbedingungen
-Schwierigkeitseinstellungen=Schwierigkeitseinstellungen
-Spielmodus=Spielmodus
 Scenario=Szenario
 Realism=Realismus
-Realische Sprachabschwächung=Realistische Sprachabschwächung
 Force Manual Navigation=Manuelle Navigation erzwingen
-Automatische Navigation=Automatische Navigation
-Eigenbeschuss=Eigenbeschuss
-Bots=Bots
-Geleitzug-KI: EIN=Geleitzug-KI: EIN
 Force Real Morse=Echtes Morsen erzwingen
-Schnelle Begegnung=Schnelle Begegnung
 Tonnage Goal=Tonnageziel
 Time Limit=Zeitlimit
 Objective Visibility=Sichtbarkeit der Ziele
-Immer anzeigen=Immer anzeigen
-Bei Fertigstellung anzeigen=Bei Fertigstellung anzeigen
-Immer versteckt=Immer versteckt
 r:^• Destroy enemy merchant ships: (\d+)/(\d+) grt\.$="• Feindliche Handelsschiffe zerstört: $1/$2 BRT."
 r:^• Destroy enemy merchant ships: (\d+)/(\d+) grt\.\s*$="• Feindliche Handelsschiffe zerstört: $1/$2 BRT."
 r:^• Sink at least (\d+) tonnes of enemy merchant ships\.$="• Mindestens $1 Bruttoregistertonnen feindlichen Handelsschiffsraum versenken."
@@ -108,9 +75,7 @@ Click here to add an abort message to your mission...=Füge deinem Einsatz eine 
 Click here to add a defeat message to your mission...=Füge deinem Einsatz eine Niederlagennachricht hinzu...
 Export To Clipboard=In die Zwischenablage exportieren
 Import From Clipboard=Aus der Zwischenablage importieren
-Mission aus der Zwischenablage importieren=Mission aus der Zwischenablage importieren
 Publish to the Steam Workshop=Im Steam Workshop veröffentlichen
-Tastenbelegung zurücksetzen=Tastenbelegung zurücksetzen
 Revert=Zurücksetzen
 Reset=Zurücksetzen
 Clear All=Alles löschen
@@ -124,50 +89,18 @@ Average Depth=Mittlere Tiefe
 meters=Meter
 
 # Sonstiges UI
-Handbuch=Handbuch
-Workshop=Workshop
-Credits=Credits
-Neuigkeiten=Neuigkeiten
-Version=Version
-MODS=MODS
 Log Book=Logbuch
 Activity Log=Aktivitätsprotokoll
-Bannlisten-Optionen=Bannlisten-Optionen
 Banned Players=Gebannte Spieler
-Community=Community
 Community Profile=Community-Profil
 Steam Profile=Steam-Profil
-FPS-Anzeige anzeigen=FPS-Anzeige anzeigen
-QuickInfos anzeigen=QuickInfos anzeigen
-Nickname anzeigen=Spitzname anzeigen
-Maus invertieren=Maus invertieren
-Empfindlichkeit der Kameradrehung=Empfindlichkeit der Kameradrehung
-Empfindlichkeit der Cursor-Interaktion=Empfindlichkeit der Cursor-Interaktion
-Cursor-Skalierung=Cursor-Skalierung
-Intensität des Scrollrads=Intensität des Scrollrads
-Menü Hintergrund Deckkraft=Menü-Hintergrund Deckkraft
-Karte Schriftart (Schriftgröße)=Karte Schriftart (Schriftgröße)
-Karte Linienmaßstab=Karte Linienmaßstab
-Ordner >Sprache< öffnen=Ordner >Sprache< öffnen
-Sprachen neu laden=Sprachen neu laden
-Sprachen neu laden=Sprachen neu geladen
-Werkseinstellung laden=Werkseinstellung geladen
-Erhöht oder verringert die Gesamtlautstärke des Spiels unter Beibehaltung des Verhältnisses zwischen den verschiedenen Lautstärken.=Erhöht oder verringert die Gesamtlautstärke des Spiels unter Beibehaltung des Verhältnisses zwischen den verschiedenen Lautstärken.
-Regelt die Lautstärke des eingehenden Voice-Chats.=Regelt die Lautstärke des eingehenden Voice-Chats.
-Zeigt den Eingangslautstärkepegel Ihres Mikrofons an.=Zeigt den Eingangslautstärkepegel Ihres Mikrofons an.
-Push-To-Talk schaltet Ihr Mikrofon ein und aus, wenn die entsprechende Taste gedrückt wird.=Push-To-Talk schaltet Ihr Mikrofon ein und aus, wenn die entsprechende Taste gedrückt wird.
-Push-To-Talk-Hinweis anzeigen=Push-To-Talk-Hinweis anzeigen
-Aktivieren, um einen Hinweis darauf anzuzeigen, ob Ihr Mikrofon aktiviert ist oder nicht.=Aktivieren, um einen Hinweis darauf anzuzeigen, ob Ihr Mikrofon aktiviert ist oder nicht.
-Deaktivieren, um den Morsetoneffekt bei Verwendung der Morsetaste abzuschalten.=Deaktivieren, um den Morsetoneffekt bei Verwendung der Morsetaste abzuschalten.
-Morsecode abspielen=Morsecode abspielen
 
 # =============================================================================
 # INTERIEUR & U-BOOT-STATIONEN (HISTORISCH KORREKT)
 # =============================================================================
 
 # Zentrale & Steuerstand
-Ruder=Ruder
-Ruder angle -=Ruderlage -
+Rudder angle -=Ruderlage -
 Open voice tube.=Sprechröhre öffnen.
 Close voice tube.=Sprechröhre schließen.
 Use voice tube whistle=Sprechrohrpfeife betätigen
@@ -266,7 +199,6 @@ Start electric engine=E-Maschine anlassen
 # =============================================================================
 # DIESELMASCHINENRAUM (ENTWIRRT)
 # =============================================================================
-DieselmaschinenraumDieselmotor=Dieselmaschinenraum
 Start diesel engine=Dieselmaschine anlassen
 Decouple diesel engine=Dieselmaschine auskuppeln
 Starboard Diesel clutch -=Steuerbord-Dieselkupplung -
@@ -341,8 +273,6 @@ Starboard Check valve 6=Steuerbord-Rückschlagventil 6
 # =============================================================================
 # FUNK- & HORCHRAUM
 # =============================================================================
-Funkgerät=Funkstation
-Funkpeiler=Funkpeilstation
 Enigma-Maschine=Schlüsselmaschine Enigma
 Message to...=Funkspruch an...
 Message from...=Funkspruch von...
@@ -358,7 +288,6 @@ Hydrophone direction=Horchrichtung
 Hydrophone gain=Verstärkung
 Directionality=Richtcharakteristik
 High pass filter=Hochpassfilter
-Echolot=Echolot
 
 # =============================================================================
 # SEERÄUME, NAVIGATION & OPTIKEN
