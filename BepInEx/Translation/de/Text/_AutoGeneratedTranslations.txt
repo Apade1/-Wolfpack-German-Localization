@@ -100,7 +100,7 @@ Steam Profile=Steam-Profil
 # =============================================================================
 
 # Zentrale & Steuerstand
-Rudder angle -=Ruderlage -
+Rudder angle=Ruderlage
 Open voice tube.=Sprechrohr öffnen
 Close voice tube.=Sprechrohr schließen
 Use voice tube whistle=Sprechrohrpfeife betätigen
@@ -121,17 +121,16 @@ Achteres Tiefenruder nach oben=Hinteres Tiefenruder aufholen (Steigen)
 # FLUT- UND TRIMMANLAGE (ZENTRALE)
 # =============================================================================
 Ballast air valve=Anblasventil
-Ballast air control -=Anblasesteuerung -
-Ballast air control - 76561198867462768=Anblasesteuerung – 76561198867462768
+Ballast air control=Anblassteuerung
 
 # Schnelltauchanlage
-Negative airflow control=Schnelltauch-Anblasventil
-Negative tank air flow -=Schnelltauch-Anblasdruck -
-Negative tank vent=Schnelltauchzelle
+Negative airflow control=Schnelltauch-Ausblasventil
+Negative tank air flow=Schnelltauch-Ausblasdruck
+Negative tank vent=Schnelltauchzellen-Entlüftung
 
 # Trimmanlage
-Trim tank air valve=Trimmzellen
-Trim tank air flow -=Trimmzellen-Anblasdruck -
+Trim tank air valve=Trimmzellen-Ausblasventil
+Trim tank air flow=Trimmzellen-Anblasdruk
 Trim tank vent=Trimmzellen-Entlüftung
 
 # Pumpen, Kompressoren & Alarm
@@ -140,16 +139,12 @@ Turn off bilge pump=Lenzpumpe ausschalten
 Turn on compressor=Kompressor einschalten
 Turn off compressor=Kompressor ausschalten
 Dive alarm=Tauchalarm
-Dive alarm -=Tauchalarm -
-Dive alarm - 76561198867462768=Tauchalarm – 76561198867462768
 
 
 # E-Maschinenraum
 E-motor controls=E-Maschinen-Steuerung
-Starboard E motor clutch -=Steuerbord-E-Maschinenkupplung -
-Starboard E motor clutch - 76561198867462768=Steuerbord-E-Maschinenkupplung – 76561198867462768
-Port E motor clutch -=Backbord-E-Maschinenkupplung -
-Port E motor clutch - 76561198867462768=Backbord-E-Maschinenkupplung – 76561198867462768
+Starboard E motor clutch=Steuerbord-E-Maschinenkupplung
+Port E motor clutch=Backbord-E-Maschinenkupplung
 E_Motor_Direction=Fahrschalter
 Forward/Reverse switch=Fahrschalter (Voraus/Zurück)
 Fahrschalter=Fahrschalter
@@ -158,12 +153,8 @@ Battery Series/parallel switch=Batterieschalter (Reihe/Parallel)
 Speed control=Drehzahlregler (Widerstand)
 Disable starting resistor=Anlaufwiderstand ausschalten
 Enable starting resistor=Anlaufwiderstand einschalten
-Starboard fuse -=Steuerbordsicherung -
-Port fuse -=Backbordsicherung -
-Port fuse - 76561198867462768=Backbordsicherung – 76561198867462768
-Spannungsregler Backbord=Spannungsregler Backbord
-Spannungsregler Steuerbord=Spannungsregler Steuerbord
-Hilfsspannungsregler=Hilfsspannungsregler
+Starboard fuse=Steuerbordsicherung
+Port fuse=Backbordsicherung
 Voltage regulator=Spannungsregler
 Auxillary voltage regulator=Hilfsspannungsregler
 Rectifier=Gleichrichter
@@ -205,22 +196,15 @@ Couple starboard screw=Steuerbord Schraube einkuppeln
 Decouple port screw=Backbord Schraube auskuppeln
 Couple port screw=Backbord Schraube einkuppeln
 Starboard Diesel clutch -=Steuerbord-Dieselkupplung -
-Starboard Diesel clutch - 76561198867462768=Steuerbord-Dieselkupplung – 76561198867462768
 Port Diesel clutch -=Backbord-Dieselkupplung -
-Port Diesel clutch - 76561198867462768=Backbord-Dieselkupplung – 76561198867462768
 Throttle=Füllungshebel
 Starter lever=Anlasshebel
 Starter air=Anlassluft
 Turn on supercharger=Gebläse einschalten
 Turn off supercharger=Gebläse ausschalten
 Air intake valve=Hauptluftmastventil
-Air intake valve - 76561198867462768=Hauptluftmastventil – 76561198867462768
 Air exhaust valve=Abgashauptklappe
-Air exhaust valve - 76561198867462768=Abgashauptklappe – 76561198867462768
 Engine intake valve=Verbrennungsluftklappe
-Engine intake valve - 76561198867462768=Verbrennungsluftklappe – 76561198867462768
-Starboard engine exhaust valve - 76561198867462768=Steuerbord-Abgasklappe – 76561198867462768
-Port engine exhaust valve - 76561198867462768=Backbord-Abgasklappe – 76561198867462768
 Open air intake valve=Hauptluftmastventil öffnen
 Close air intake valve=Hauptluftmastventil schließen
 Open air exhaust valve=Abgashauptklappe öffnen
@@ -309,10 +293,10 @@ Table for calculating attack distances using the horizontal scale=Tabelle zur En
 # TORPEDOTECHNIK & RECHENAPPARAT (TDC)
 # =============================================================================
 Angle on bow=Lagewinkel
-Target speed=Gegnerische Geschwindigkeit
-Target range=Gegnerische Entfernung
-Target heading=Gegnerischer Kurs
-Target length=Schiffslänge
+Target speed=Gegnerfahrt (v)
+Target range=Zielentfernung (E)
+Target heading=Gegnerkurs
+Target length=Gegnerlänge
 Torpedo running depth=Torpedolauftiefe
 Torpedo reload=Torpedo nachladen
 Torpedo. -=Torpedo -
@@ -333,13 +317,11 @@ Loading tube 2=Rohr II wird geladen
 Loading tube 3=Rohr III wird geladen
 Loading tube 4=Rohr IV wird geladen
 Loading tube 5=Rohr V wird geladen
-g7e, type II=G7e (Ato-Torpedo Typ II)
-Type I Steam Torpedo=G7a (Dampftorpedo Typ I)
-TV Electric Torpedo=G7e (Zaunkönig Typ V)
+g7e, type II=G7e (Elektrotorpedo Typ II „Eto“)
+Type I Steam Torpedo=G7a (Dampftorpedo Typ I „Ato“)
+TV Electric Torpedo=G7es (Zaunkönig Typ V)
 Zaunkoenig=Zaunkönig
-T5 ZAUNKÖNIG  (2 VERFÜGBAR)=T5 Zaunkönig (2 verfügbar)
-T5 ZAUNKÖNIG  (4 VERFÜGBAR)=T5 Zaunkönig (4 verfügbar)
-★ VORGEWÄRMT=★ VORGEWÄRMT
+r:^T5 ZAUNKÖNIG\s+\((\d+) VERFÜGBAR\)$="G7es Zaunkönig (Typ V) ($1 verfügbar)"
 
 # =============================================================================
 # SONSTIGE STATIONEN & SCHOTTE
