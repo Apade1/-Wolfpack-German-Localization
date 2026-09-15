@@ -13,24 +13,6 @@ Create=Erstellen
 Players=Spieler
 Submarine=Unterseeboot
 
-# Grafik- und Videoeinstellungen
-Screen resolution=Bildschirmauflösung
-Texture resolution=Texturauflösung
-Shadow resolution=Schattenauflösung
-Water resolution=Wasserauflösung
-Anisotropic filtering=Anisotrope Filterung
-Shadows=Schatten
-Field of view=Sichtfeld
-Frame rate cap=Framerate-Obergrenze
-Dynamic foam quality=Dynamische Schaumqualität
-Motion blur=Bewegungsunschärfe
-Ambient occlusion=Bildschirmraum-Umgebungsokklusion (SSAO)
-Screenspace reflection=Bildschirmraum-Reflexion (SSR)
-Vsync=Vertikale Synchronisation (VSync)
-Dither=Dithering
-Bloom=Blenden
-Brightness correction=Helligkeitskorrektur
-Antialiasing=Kantenglättung
 
 # Lobby- und Multiplayer-Menüs
 Creating lobby...=Lobby wird erstellt...
